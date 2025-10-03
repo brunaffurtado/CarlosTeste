@@ -1,7 +1,7 @@
 let produto: string = "Tênis";
 let preco: number = 250.00;
 console.log(`O produto ${produto} custa R$${preco.toFixed(2)}`);
-
+git remote add origin
 ////////
 function saudacao(nome: string): string {
     return `Olá, ${nome}!`;
